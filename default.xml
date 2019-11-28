@@ -7,7 +7,6 @@
   <default revision="master"
            remote="origin" />
 
-  <project path="test02dir"
-           name="test02"/>
+  <project name="test02" path="test02dir" remote="origin" revision="master" />
 </manifest>
 
