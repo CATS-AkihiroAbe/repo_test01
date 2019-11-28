@@ -7,6 +7,6 @@
   <default revision="master"
            remote="origin" />
 
-  <project name="test02" path="test02dir" remote="origin" revision="master" />
+  <project name="test02" path="test02dir" remote="origin" revision="abc6d2c1953b3e00ea13a022a2493bc4798aa840" />
 </manifest>
 
