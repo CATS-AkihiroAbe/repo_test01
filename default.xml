@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="github"
-           fetch="git://github.com/CATS-AkihiroAbe/"/>
+           fetch="git://github.com/CATS-AkihiroAbe"/>
 
   <default revision="master"
            remote="github" />
@@ -10,6 +10,6 @@
   <project path="test02dir"
            name="test02"
            remote="github"
-           revision="2591eabc7ff76653063cddc3e5c354205c655551"/>
+           revision="abc6d2c1953b3e00ea13a022a2493bc4798aa840"/>
 </manifest>
 
