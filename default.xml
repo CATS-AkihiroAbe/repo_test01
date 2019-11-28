@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="origin"
+  <remote  name="github"
            fetch="git://github.com/CATS-AkihiroAbe"/>
 
   <default revision="master"
