@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="github"
+  <remote  name="origin"
            fetch="https://github.com/CATS-AkihiroAbe"/>
+
+  <default revision="master"
+           remote="origin" />
 
   <project path="test02dir"
            name="test02"
-           remote="github"
+           remote="origin"
            revision="abc6d2c1953b3e00ea13a022a2493bc4798aa840"/>
 </manifest>
 
