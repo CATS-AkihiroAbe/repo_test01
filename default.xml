@@ -9,7 +9,5 @@
 
   <project path="test02dir"
            name="test02"
-           remote="origin"
-           revision="master"/>
 </manifest>
 
