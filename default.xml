@@ -10,6 +10,6 @@
   <project path="test02dir"
            name="test02"
            remote="github"
-           revision="HEAD"/>
+           revision="master"/>
 </manifest>
 
