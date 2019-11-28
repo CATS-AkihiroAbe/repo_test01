@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="origin"
+           fetch="git:https://github.com/CATS-AkihiroAbe"/> 
+
+  <default revision="master"
+           remote="origin" />
+
+  <project path="test02dir"
+           name="test02"/>
+</manifest>
+
