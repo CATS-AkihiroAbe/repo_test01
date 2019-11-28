@@ -4,11 +4,9 @@
   <remote  name="origin"
            fetch="git://github.com/CATS-AkihiroAbe"/> 
 
-  <default revision="master"
-           remote="origin" />
-
   <project path="test02dir"
            name="test02"
+           remote="github"
            revision="2591eabc7ff76653063cddc3e5c354205c655551"/>
 </manifest>
 
