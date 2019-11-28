@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="github"
-           fetch="git://github.com/CATS-AkihiroAbe"/>
+           fetch="git://github.com/CATS-AkihiroAbe/"/>
 
   <default revision="master"
            remote="github" />
