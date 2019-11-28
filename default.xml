@@ -8,6 +8,7 @@
            remote="origin" />
 
   <project path="test02dir"
-           name="test02"/>
+           name="test02"
+           revision="2591eabc7ff76653063cddc3e5c354205c655551"/>
 </manifest>
 
