@@ -8,6 +8,6 @@
            remote="origin" />
 
   <project path="test02dir"
-           name="test02"
+           name="test02"/>
 </manifest>
 
