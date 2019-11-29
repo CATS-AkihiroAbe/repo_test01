@@ -4,6 +4,6 @@
   <remote  name="origin"
            fetch="https://github.com/CATS-AkihiroAbe"/>
 
-  <project name="test02" path="test02dir" remote="origin" revision="tagA" />
+  <project name="test02" path="test02dir" remote="origin" revision="master" />
 </manifest>
 
